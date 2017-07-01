@@ -1,0 +1,22 @@
+========= questions =========
+	1. Mention the definition of  telemedicine and telehealth
+	2. In Telemedicine, use cases can derived accros multiple modalities. What is this means, describe in detail
+	3. What is the meaning of virtual care?
+	4. The users who use clinical video telehealth services growing rapidly in Cleveland VAMC. Give reasons why is it can be happen?
+	
+========= ANSWERS =========
+	1. telemedicine is the use of technologies to remotely diagnose, monitor and treat patients.
+	telehealth is the application of technologies to help patients manage their own illness through improved self-care and access to education and support systems.
+	
+	2. it means that there can be no doubt that a growing consensus exists to support the idea that a properly conducted "virtual" examination can be entirely adequate to establish a valid patient-physician
+ (or clinician) relationship and support the provision of high quality, 
+standards-compliant care for wide variety of conditions and in a wide range of circumstances
+	
+	3. Virtual Care is that it is a form of communication between patients and physicians that needs to be efficient, specific to a particular workflow task, 
+and remain completely generic depending on the device that either party is communicating from.
+	
+	4. because the Cleveland VA health system delivers "soup to nuts care". primary and specialist care; home care; long term care; hospice care; specialist and surgical care. mental health care.
+ homeless services, dialysis care. electronical medical record provides seamless communication. the medical record (VISTA) provides an integrated inpatient and outpatient electronic health record for VA patients, 
+and adminstrative tools
+	
+	

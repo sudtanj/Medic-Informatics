@@ -1,0 +1,803 @@
+
+
+
+
+SPHERE
+a Sensor  Platform for HEalthcare  in a Residential Environment
+
+
+
+EPSRC Interdisciplinary Research  Collaboration (IRC)
+
+
+
+For SPHERE:
+Dr Dritan Kaleshi, Dr Pete Woznowski, Dr Mo Haghighi
+University of Bristol
+
+
+
+
+Long-term Care Revolution National Challenge Launch
+London 25 November 2014
+
+
+
+
+
+irc-sphere.ac.uk
+Healthcare under pressure…
+
+1. Changing Demographics, e.g.:
+•   3.6m will be 85 or older in the UK by
+2035 (1.4m now).
+•   Healthcare systems will face significant
+difficulties in meeting current
+expectations of standards of care.
+
+
+
+ONS - 2012
+
+
+2. Rise in long term health conditions, e.g.
+•   Antidepressants prescriptions up by 28% over three years.
+•   25% of adults in England are obese (5% of NHS budget).
+•   25% increase in diabetes diagnosis between
+2006 and 2011.
+•   6-10% of all hospital admissions could be
+prevented if medication was taken correctly.
+                       Ho me as a  final  fron tier  …                     
+
+
+
+
+•  A large part of our lives, and increasingly so in
+advanced age, is spent in the home, but very little is known about our activities and behaviour in there.
+
+
+
+•  Establishing baseline activities of daily living (ADL) in the home is crucial to assist people in need of care, identify onset of conditions, and engage with them in behaviour change.
+
+
+
+•  Technology is an enabler, but its history inside the home is mixed – at best!
+Challenges
+
+
+1.   Technology : no real shortage …, but ….
+•     Neither as reliable nor as autonomous as needed/expected
+•     Not context-aware   too intrusive/not intrusive enough?
+•     Too heterogeneous (not interoperable)
+•     Still not as efficient as needed
+
+2.   It is not about technology or data;
+It is what do we learn from the data, and how we use
+this knowledge.
+
+3.   Privacy, trust and user acceptance
+•      Increase trust through the application of the technology the right way
+
+4.   Need for truly multidisciplinary approaches
+•     Terminology, practices, vision and understanding differences are still
+                     very large                                                                                                                
+
+
+
+
+SPHERE : An EPSRC-funded Interdisciplinary Research Collaboration
+
+Vision: Impact a range of healthcare needs simultaneously by employing data-fusion and pattern-
+recognition from a common platform of non-medical networked
+sensors in
+a home environment.
+
+
+Budget: £15M (EPSRC £12M) Duration: 5 years
+30 postdoctoral researchers, 8 PhD students, 16 associated academic staff
+Workpackages
+
+
+indirect
+
+
+WPl
+
+
+
+
+
+
+
+
+WPS
+
+
+.,
+
+
+
+WP6
+Environment sensing
+Video monitoring
+Body-area sensing & comms
+Energy Harvesting & Management
+Data Fusion &
+Data Mining
+Design, Deployment &
+
+
+
+
+Smart home
+technology.
+Interoperability of
+systems and data.
+
+
+
+
+
+
+
+A4: Subject/Patie
+
+
+
+
+
+
+
+
+
+
+
+
+
+bristol. ac. uk
+Workpackages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24/7 opportunistic
+video analytics in the
+home – highly
+challenging
+Workpackages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+On-body, harvesting-
+powered wearables.
+PHY/MAC innovation
+needed, new materials
+and circuits needed.
+Workpackages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dealing with multi-
+dimensional sensor
+data, classifying
+activities, visualising
+Workpackages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deployment in 100
+homes in Bristol.
+Keeping SPHERE
+focussed on the real
+world. Gathering a
+unique dataset.
+Workpackages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+User/Technology
+relationship
+Workpackages
+
+
+
+
+
+
+
+
+
+
+
+Specialist clinical and
+clinical science
+investigators in Heart
+Disease, COPD,
+Depression, Alcohol and
+Tobacco Addition,
+Activity, Diet …
+
+
+
+
+Research infrastructure
+•   Technology development but also measurement and small pilots in the real world.
+•   SPHERE’s massively-sensorized house in Bristol (a true “living lab”):
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13
+
+
+
+
+
+SPHERE House
+
+
+
+irc-sphere.ac.uk
+
+
+
+
+
+SPHERE House
+
+
+Depth Sensor
+Fish eye lens Camera
+
+Wide Angle Camera
+
+
+Garden
+skylight
+
+
+wm
+Env Sensor S1 (PIR, Door, T, Env Sensor S2 (AQ, T, H, L, … Water Sensor S3
+Electricity
+
+
+
+Fluorescent tube
+
+Chimney breast
+
+Mirror
+
+Window
+
+Shelves
+
+Radiator
+
+
+
+
+
+
+
+
+
+
+
+irc-sphere.ac.uk
+
+14 video sensors
+35 environment sensors
+giving >90 data points
+Several on-body wireless
+sensor(s)
+stairs
+
+
+
+WP1: Home Environment Sensors
+
+Sensor Type  Posting
+frequency
+
+PIR
+
+
+Resolution     Accuracy        Unit                 Location
+
+detecting
+range 6-7m      N/A                   All applied units
+
+Water
+
+Door
+Contact
+
+Temperature
+
+Instantaneous 0.5%                  ±1%                   Liter/Min          Kitchen, bathroom
+
+
+0/1                    N/A                   N/A                   All applied units
+
+
+10.0 mV/°C      ±1                      °C                       All applied units
+
+Humidity                              1%RH                <±4%RH           %RH                  All applied units
+Every Minute
+
+Light
+(Configurable to seconds or hours)
+
+0.10%
+Resistance in
+darkness:
+20MΩ
+
+%                       All applied units
+26 +/-1
+dBSPLA             ±4dB                 dB                      All applied units
+Air quality                            0.35V/(0.1mg/ 0.5V/(0.1mg/
+
+m3)
+m3)                   mg/m3             All applied units
+Electricity     6 Seconds        1W                                               Watt                  Individual applications
+
+
+
+irc-sphere.ac.uk
+3     University of                                                                                                    17
+         B RI STO L   SPHERE House Dashboard                 e  
+
+£ Das.hboard_bsv0.1  - Google  Chrome                                                                                                                                                                                                                                                                                                                                              �I  El    I�
+, L_J  uas.hboarcl_bs.W�_L---�x���ll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!llll!!ll!!!III•••••
+C  t'i   ID 10.70.18.13/index�demo.html                                                                                                                                                                                                           El. <t?l !llfs    �
+:::   Apps     � Bristol  University  I     H ..
+
+
+
+
+
+1+++01+1 First  Floor        Data  Streams  ...
+
+
+
+
+
+
+
+Time  15  43 43, 23110/2014
+
+Room: t.rvrnq  Room
+CJ  Other  bookmarks.
+
+Kitchen                                                           Study Room                                                  Lounge                                                       -Noise(dB)
+,o,
+
+
+
+
+
+
+®     • ®®_rr
+I
+1�1::Y.I                1�
+-Light%
+""
+
+Kitchen:
+
+Study  Room:
+O'C                    °"
+
+Lounge:  Watchrng  TV
+
+Activity   Watching TV
+Started.  15:41 :55
+
+1-5:,;:;1:.3!1
+
+1.s:.:.::!
+Finished.  ongoing
+
+Conditions  satisfied
+-TV:  ON
+-Light  level:  low
+-Noise:  above  norm
+-Movement:  YES
+-Door  opened·  YES
+
+Confidence factor  O  96
+- Dust(mg/m3)
+
+
+- �                           -     -
+- �         t-
+
+15:41::Ja
+
+bristol. ac. uk
+
+
+
+
+
+WP2: Human Tracking
+
+
+
+
+
+
+•   Detect and track body movements
+•   Extract relevant features
+•   Analyse/Identify specific patterns relevant for clinicians
+
+
+
+
+
+irc-sphere.ac.uk
+
+
+
+
+
+WP2: Early version of skeletal dataset
+•  Actions: Going up to stairs, Sitting-standing
+•  Devices: PrimeSense, New Kinect (Kinect 2)
+
+
+
+•   Example data
+
+PrimeSense                                      new Kinect (Kinect 2)
+
+
+
+
+
+Staircases data
+
+
+
+
+
+
+
+
+
+
+
+sitting-standing       N/A (Skeleton is too noisy)
+
+
+
+
+irc-sphere.ac.uk
+
+
+
+
+
+WP3: Ultra-efficient Wireless On-body Sensor
+
+
+
+This is the printed circuit board layout of the very first SPHERE wearable – in manufacture at the time of writing.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+39mm
+SPW-1 Specifications:
+• Ultra-Low Power Design
+• Energy-Harvesting Ready
+• Dual Accelerometers
+• Efficient PCB Antenna
+• External Sensor Support
+
+
+
+
+
+
+
+
+
+
+irc-sphere.ac.uk                                    20
+
+
+
+WP4: Four concepts for powering medical sensors
+
+
+
+
+
+Wireless power transfer
+Body-worn sensor
+
+Moving
+target
+Wearable
+
+
+For smart sensor
+
+Radio frequency                         Inductive
+
+
+
+
+
+
+
+Energy
+harvesting
+For
+specific
+
+
+
+
+
+
+Flexible
+Light
+
+
+
+
+Motion &
+bending
+
+Energy pulses
+sensors
+Photovoltaic                         Ferroelectret
+SPHERE
+Hierarchical Taxonomy for People
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22
+Adapted from: Chaaraoui , Climent-Pérez, and Flórez-Revuelta. "A review on vision techniques applied
+to human behaviour analysis for ambient-assisted living." Expert Systems with Applications, 2012
+
+
+
+
+
+WP5: Learning from data
+
+
+irc-sphere.ac.uk                                      23
+
+
+
+
+Next steps
+•   Answering emerging clinical questions from the Medical Faculties (e.g. Social and Community Medicine) and industry/NHS via a pre-proposal proof-of- concept requires data.
+•   This has all been done in lab environments already –  the interesting questions are what we observe at home.
+
+
+
+
+
+
+SPHERE has acquired a small house in
+central Bristol.
+
+
+This will lead us towards full-scale
+deployments.
+
+
+
+
+
+
+
+24
+
+
+
+
+Summary:
+• SPHERE has built an Internet of Things platform that provides comprehensive
+activities   for   healthcare   and   wellbeing   monitoring   in   real-life   home
+environments
+• SPHERE will advance the state of the art in:
+• ultra low power communications
+• on-body energy harvesting
+• video analytics in unconstrained environments
+• extraction of meaning from complex uncertain data sets.
+• the understanding of user/technology interaction in the home for healthcare.
+• SPHERE’s team connects:
+• clinical need to engineers and computer scientists
+• emerging clinical research to evolving new technology.
+
+• SPHERE is looking for collaborators to work together to address
+these challenges.
+
+
+
+
+
+
+
+Thank you !
+
+
+
+SPHERE contacts:
+
+Website:  www.irc-sphere.ac.uk
+
+
+
+
+Director:   Professor Ian Craddock
+Project manager: Patricia Holley
+
+
+
+Email:  sphere-admin@Bristol.ac.uk
+
+
+
+
+Social Media:
+    twitter.com/IRC_SPHERE                                                                             
+https://www.facebook.com/pages/Sphere

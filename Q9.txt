@@ -1,0 +1,35 @@
+1. What is the goal of SPHERE research program ?
+
+2. How do they do to achieve the goal? Give detail explanation
+================================
+1. impact a range of healthcare needs simultaneously by employing data-fusion and pattern-recognition from a common platform of non-medical networked sensors in a home environment.
+
+2. How to acheve SPEHERE goals by applying this:
+-WP1: environment sensing (indirect) = smart home technology: interoperability of systems and data
+- WP2: video monitoring (remote)= 24/7 opportunistic video analytics in the home--> detect and track body movements, extract relevant features, analyse/identify specific patterns relevant for clinicians.
+- WP3 & WP4:body-area sensing and communications & energy harvesting and management (on body) = on-body, harvesting-powered wearables: PHY/MAC innovation needed, new materials and circuits needed.
+- WP5:data fushion and data mining= dealing with multi-dimensional sensor data, classifying activities, visualising
+	4 concept for powering medical sensors: radio frequency, inductive (for smart sensor), photovoltaic ( for specific sensors), ferroelectret
+- WP6: design, deployment, & monitoring=deployment in 100 homes in Bristol. keeping SPHERE focussed on the real world. gathering a unique dataset.
+
+=================================
+[NOTES]
+
+challanges:
+1. teknologinya belum sempurna
+2. bagaimana kita bisa mengerti arti dari data sehingga bisa jadi informasi/knowledge
+3. trust & privacy issue
+4. perlu multidisciplinary approaches untuk mengerti apa yang diteliti
+
+system design:
+menggunakan peralatan medis dan non medis, mereka menggunakan sensor dan peralatan yang sudah ada untuk mendapatkan data2 yang ada dirumah. lalu digunakan untuk membuat analisa yang dinamakan data fushion.
+lalu, menggunakan pattern recognition, jadi kita bisa tau data apa yang membuat pola hidupnya tidak sehat.
+
+workpackages:
+WP 3 & WP4: nempelin sensor untuk dapetin data, eg: temprature, heart rate
+wp5: data yg ud dikumpulin dr WP 1-4 dimasukin ke server untuk di klasifikasi lagi
+WP 6: bikin sistem untuk rumah2 supaya keliatan behavior dari suatu populasi or community
+
+A1-A4= tahap2 dalam penelitian 
+
+summary: SPHERE buat track activities di rumah

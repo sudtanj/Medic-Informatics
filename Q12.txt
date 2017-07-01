@@ -1,0 +1,53 @@
+==soal==
+Mention the kinds of social technologies (12 items). And what those technologies can do to support medical services?
+
+==jawaban==
+a. HTML5 = is an open standard that supports the premise of accessible usable information, that should make reusing content easier across multiple devices. It will facilitate closer integration between departments through improved web interoperability.
+b. Augmented Reality = opportunities exist through the ability to overlay graphics, audio and other sensory enchancements on a real-world environment. Potential issues in terms of device-appropriateness and security.
+c. Cloud computing = the costs and risk of things not going to plan are higher than the utopian 'cloud computing' concept lets on. 
+d. Game mechanics = Gamification refers to the application of game mechanics to real world situations not typically considered games to elicit certain behaviours.
+e. Next generation search = search engine with smarter, more efficient, fun, relevant and intuitive.
+f. Agile development = a group of software development methodologies based on iterative and incremental development. Requirements and solutions evolve through collaboration between selforganising, cross-functional teams. 
+g. Social technology = Citizens are becoming increasingly comfortable sharing their personal information with others online. 
+h. Mobile internet = Mobile internet is usually available at any point of consideration, so perfect for providing timely information.
+
+i. the smartphones as large-scale research: Smartphones are highly effective data collection devices and they can record a lot of detail about people’s lives. As well as tracking their own health status, people can also help researchers gather large amounts of data on health problems and their determinants using their smartphones.
+
+j.  at home or portable diagnostics= The prospect of using these to gather information in addition to achieving a specific task is motivating several new developments.
+
+k. implantable drug delivery mechanisms=Several technologies in development could enable patients and care professionals to monitor and improve adherence to a prescribed drug regime either through automation or providing better information about medication usage.
+
+l. digital therapeutics= They effectively embed clinical practice and therapy into a digital form. At a minimum, these interventions combine provision of clinically curated information on a health condition with advice and techniques for dealing with that condition
+
+m. genome sequencing=  With the genetic profile of a person’s disease and knowledge of their response to treatment, it should be possible to find out more about the likely effectiveness of medical interventions such as prescribing drugs to treat a disease (pharmacogenomics).
+
+== CH.13 ==
+
+1. HTML 5-- cth unique(?)
+feature: video, geo loc,canvas drawing, drag and drop anything, offline storage
+eg -kalo di medic antar doctor kirim file buat anaylize hasil lab
+      -geo loc: tau lokasi dimana ada kecelakan, estimasi waktu & ada penyakit apa udh bisa di analisa
+	-video=teleconference antara doktor di pedesaan dgn di kota (P2P pake API khusus)
+
+2. augmented reality= harus ada marking  yang dikenali oleh device sehingga bisa munculin sesuatu
+eg marking: barcode atau shape lain
+eg di medis= saat surgery--bisa liat posisi organ tubuh
+
+3. cloud computing= u/ storage/DB, apps
+untuk nge-pool yg bs diconfigure semaunya user
+servicesnya= sw as a service, platform as a service (OS--windows), infrastructure as as service (Hardware)
+eg microsoft365
+tipe: private & public
+
+4. game mechanics = game yang attractive (?)
+kalo di medis:  senam kebugaran, terapi tulang/lumpuh--> pakai kinec
+
+5. next generation search
+
+6. agile development: sw nya punya bnyk iterasi bisa muter2
+eg: startup
+kalo perusahaan besar bisanya pake waterfall soalnya udh lebih matang(?)
+
+7. social technology
+
+8. mobile internet

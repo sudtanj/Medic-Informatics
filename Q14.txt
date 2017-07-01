@@ -1,0 +1,35 @@
+//IoT transforming Medical Devices
+
+How the Internet of Things Is Transforming Medical Devices?
+
+-by digitization & medical devices=
+medical devices are transforming themselves from devices/consumables providers to disease/care management organizations.
+digitization in acute care, chronic care or in adherence is greatly aided by IoT-powered medical devices such as subtaneous drug delivery units, continuos glucose monitors and vitals monitoring equipment
+
+medical tech range from implantable devices, capital-intensive diagnostic and monitoring equipment, to mobile medical apps
+
+- by Community of practice= establishing a collaboration-oriented community of practice (CoP) for IoT
+this function provide strategic direction, set governance and ensure broader alignment with enterprise goals
+
+- by cultivate partner ecosystem= by cultivating partner ecosystem, medical devices companies can benefit by mitigating concerns around regulatory requirements, accelerating time-to-market and reducing technology risks.
+
+-by looking forward= we foresee that the digital divide between industrial IoT and consumer IoT will start to dissolve, giving rise to new bussiness possibilities.
+medical devices are likely to have built-in user preferences to control how personal data is communicated and shared
+
+ We expect, in the next few years, user-controlled connected medical devices to become ubiquitous. The progression of the IoT is set to unleash new frontiers in customer-centricity with unprecedented levels of digitization in the medical devices industry.
+
+reference https://www.google.co.id/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjO5Yb09azTAhUJsI8KHVPCBeoQFggzMAA&url=https%3A%2F%2Fwww.cognizant.com%2Fwhitepapers%2Fhow-the-internet-of-things-is-transforming-medical-devices-codex1945.pdf&usg=AFQjCNFhMd4Z0rKQcBbalJ_JQpJ2FME6qQ&sig2=1jEqGxfmLc2X52NQYed5LA
+
+===============================================
+
+IoT---------------------> Medical devices
+apa itu IoT ? things di IoT= device yg bisa connect ke internet-- harus bisa ngasih data
+MD= tdnya cuma di store di device aja, tp skg udh kehubung ke internet (bisa bentuk cloud, portable, embbeded devce, dll) -- tdnya storage ada di device rumah sakit
+
+big data= supaya bisa di analisis, tujuannya= decision making bisa untuk marketing
+
+# IoT in Healthcare
+ga cuma di sensor aja tapi juga sekarang ada di device
+(stakeholder in HC): payers, patient, caregivers, med devices, pharmaneurical companies
+
+(-) kurangnya standard, crowded (kebanyakan sensor)-- banyak pabrik yang mau ngehasilin produk, relative nascent stage of tech (kyk ada bbrp versi cth usb 1.0, 2.0, 3.0)

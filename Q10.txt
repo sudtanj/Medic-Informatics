@@ -1,0 +1,71 @@
+1. Patient safety is “the environment, infrastructure and technology emphasizing the reporting, analysis and prevention of ______and adverse events that might case a patient ‘___’ “.
+
+2. Informatics is “the application of computing technology, network protocols, telecommunication mechanism and software algorithms applied towards improving the quality of a “________” process”
+
+3. Which of the following incidences may be threats to patient Safety:
+
+a. Patient fall
+b. Medication errors
+c. Suicide
+d. a & b
+e.a, b & c
+4. Over past 5 years over 125,000 medication errors have been   reported to FDA (Just one agency )  True / False
+
+5. Based on my lecture (slide) what are the typical categories   of informatics applications in Patient Safety?
+
+a. Hardware
+b. Software
+c.  Networks
+d.  Predictive models
+e. a, b & d
+
+========= ANSWERS ========
+
+1. Patient safety is “the environment, infrastructure and technology emphasizing the reporting, analysis and prevention of  medical error and adverse events that might case a patient ‘harm’
+
+2.  Informatics is “the application of computing technology, network protocols, telecommunication mechanism and software algorithms applied towards improving the quality of a “Human Service” process "
+
+3. E. a, b & c (Patient fall, medication errors, and suicide)
+
+4.  TRUE
+
+5. E. a, b & d (Hardware, software, and predictive models)
+
+========= NOTES ========= 
+background:
+1. tech bisa naikin quality medical care
+
+define:
+-patient safety: (cek let's define patient safety and informatics)
+
+patient safety might encompass:
+1. patient fall: eg pasien epilepsi-- bikin suara supaya org disekitarnya notice
+2. treatment delay: udh emergency tp ga ditangani soalnya perlu bayar dulu
+
+problem diindo:
+resource dikit, alat dikit, dokter dikit, belum ada informasi yang bagus (harus di fotocopy dulu dokumen2nya)
+eg: BPJS
+
+IOM(institute of medicine) -- orgz yg meneliti patient safety
+3 kategori medical error:
+1. overuse: pengen cepet sembuh terus minum obatnya kebanyakan , eg use energy drink--efects nya ke hati
+2. underuse: eg; antibiotik harus habis
+3. misuse: eg; penyakit apa saja tapi obatnya sama semua
+
+indo improving tau dr mana?
+indikatornya dr umur-- banyak yg mati saat usia tua
+baby boomers-- org tua baru punya anak
+
+barrier u/ improve patient safety: [UAS MUNGKIN KELUAR]
+1. organizational
+2. financial
+3. trained HIT workforce
+4. privacy= barrier bagi doktornya adalah suka gosipin pasiennya--bikin profesi dokter terganggu
+5. security
+6. behavioral
+7. error reporting
+
+basic classification of app:
+1. hw oriented
+2. sw oriented
+3. predictive oriented ( business model)
